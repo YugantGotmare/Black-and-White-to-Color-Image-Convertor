@@ -1,3 +1,6 @@
+# Download  'colorization_deploy_v2.prototxt' and 'colorization_release_v2.caffemodel' files from Google.
+
+
 import numpy as np
 import cv2
 import streamlit as st
